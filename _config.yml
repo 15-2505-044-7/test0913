@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title:enPiT2018 Github Pages tutorial
+description: Github Pages
+github:
+  is_project_page: false
